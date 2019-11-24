@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://iceto:iceto@cluster0-ryxg6.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://iceto:iceto@cluster0-ryxg6.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
