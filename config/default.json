@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://iceto:iceto@cluster0-ryxg6.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ba9e827240f21e553711",
+  "githubSecret": "9f2dd6cd3304fd6ed8118e13c594861d9ce5b7f4"
 }
